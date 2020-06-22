@@ -15,10 +15,3 @@ void ft_print_numbers(void)
 		ft_putchar(a);
 		a++;
 	}
-}
-
-int main()
-{
-	ft_print_numbers();
-	return (0);
-}
