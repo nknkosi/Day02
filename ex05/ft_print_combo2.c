@@ -29,9 +29,3 @@ void ft_print_combo2(void)
 	}
 	
 }
-
-int main()
-{
-	ft_print_combo2();
-	return (0);
-}
