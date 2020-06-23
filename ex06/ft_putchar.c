@@ -13,9 +13,3 @@ void ft_putnbr(int nb)
 		p++;
 	}
 }
-
-int main()
-{
-	ft_putnbr(int nb);
-	return (0);
-}
